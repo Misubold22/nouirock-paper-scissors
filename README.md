@@ -1,1 +1,0 @@
-# nouirock-paper-scissors
